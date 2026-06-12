@@ -16,3 +16,8 @@ Account anomaly persists at 13:31 UTC: equity/cash/buying power all $0 (acct PA3
 ## 2026-06-12 — Midday Scan
 No action. Flat — no positions, no open orders. Nothing to cut or tighten.
 Account anomaly persists at 17:00 UTC: equity/cash/buying power still $0 (acct PA33JDUCZARX, ACTIVE). Awaiting operator restore of $10k paper balance. Week trade count: 0/3.
+
+## 2026-06-12 — EOD Snapshot (daily-summary)
+**Portfolio:** $0 (ANOMALY — baseline $10,000) | **Cash:** $0 (0%) | **Day P&L:** $0 (0.00%) | **Phase P&L:** $0 (0.00%)
+Positions: flat
+Notes: Account PA33JDUCZARX showing $0 equity/cash/buying power all day (anomaly first detected ~11:00 UTC, persists through close). Was $10,000 at 03:25 UTC baseline. No trades executed. No fills, no stops triggered, no activities. Zero rule violations (no positions to violate). No open orders. Operator must restore $10k paper balance before trading can begin. Week trade count: 0/3.
