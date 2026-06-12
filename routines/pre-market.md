@@ -12,6 +12,11 @@ STEP 2 — Pull account state:
 - `bash scripts/alpaca.sh positions`
 - `bash scripts/alpaca.sh orders`
 Sanity-check: every position has a live trailing stop. Flag any that don't.
+Reconcile equity against the last EOD snapshot in memory/TRADE-LOG.md: if
+equity is $0, or deviates >10% beyond what open positions' P&L explains, the
+account state is untrusted — plan no trades, size nothing off the bad number,
+and prefix the Telegram message with "OPERATOR ALERT: equity $X vs last
+snapshot $Y".
 
 STEP 3 — Market research via WebSearch (NOT Perplexity):
 - S&P 500 / Nasdaq futures, VIX level
