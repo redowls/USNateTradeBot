@@ -57,3 +57,32 @@ None meeting the bar today. Watchlist: energy leaders (VLO, BKR) on Energy RS le
 
 ### Decision
 HOLD — first entry deserves an edge. No verified catalyst with 2:1 R:R; whipsaw tape ahead of FOMC. Patience > activity. Revisit energy names post-FOMC or on a clean pullback to support.
+
+## 2026-06-12 — Pre-market Research (update, 11:00 UTC scheduled run)
+
+### Account
+- Equity: $0 — **ANOMALY: paper account PA33JDUCZARX shows $0 equity/cash/buying power** (was $10,000 at 03:25 UTC verification). API up, status ACTIVE, no positions/orders. Account appears unfunded/reset — needs operator attention before any trade is possible.
+- Cash: $0
+- Buying power: $0
+- Daytrade count: 0
+
+### Market Context
+- S&P 500 futures: ES +0.4%, Dow +0.6%, Nasdaq flat — risk-on after Thu rally on Trump "Iran deal within days" (sources: Yahoo Finance live, CNBC)
+- VIX: easing from two-month highs (~22 area); futures curve flat contango ~22 — uncertainty still priced
+- WTI / Brent: lower on deal optimism; still elevated (~$100+/bbl regime); Strait of Hormuz reopening tied to deal signing
+- Today's catalysts: SpaceX IPO debut (SPCX, $135/shr, ~$1.78T cap — flow/volatility distortion); possible Iran deal signing this weekend; UMich June prelim sentiment (cons 46.0 vs 44.8)
+- Earnings before open: light, no majors
+- Economic calendar: FOMC next Wed Jun 17, live HIKE risk after hot CPI (+4.2% y/y) and PPI (+1.1% m/m)
+- Sector momentum (2 sources: StockCharts Best Five Sectors, sector-rotation analyses): Tech + Energy lead; Energy #1 relative strength (VLO, BKR breakouts); Materials/Industrials next; Communication Services bottom
+
+### Trade Ideas
+None. Account has $0 buying power — trading impossible this session. Even if funded: no setup meets the bar — Iran headlines are a whipsaw driver (CNBC documents repeated unfulfilled deal claims), FOMC hike risk 3 sessions out, SpaceX IPO distorting flows. Watchlist unchanged: VLO, BKR on Energy RS post-FOMC.
+
+### Risk Factors
+- ACCOUNT UNFUNDED — blocker; operator must restore the $10k paper balance
+- FOMC Jun 17 live hike risk; new longs face multiple-compression
+- Iran headline whipsaw both directions (deal signing vs "VERY HARD TONIGHT" strikes / Kharg Island)
+- SpaceX IPO flow distortion; VIX still ~20+
+
+### Decision
+HOLD — forced (zero buying power) and by rule (no verified 2:1 edge pre-FOMC). Patience > activity.
