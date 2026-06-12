@@ -1,4 +1,4 @@
-## **Opus 4.7  Trading Bot — Setup Guide** 
+## **Trading Bot — Setup Guide** 
 
 _A complete blueprint for building an autonomous, cloud-scheduled trading agent on top of Claude Code._ 
 
@@ -7,8 +7,6 @@ Designed to be self-contained: paste this document into your own Claude Code ses
 The agent places real trades on Alpaca, writes its own daily research, executes a disciplined strategy with hard rules, and notifies you via chat. It is stateless between runs — all memory lives in your Git repo. 
 
 **Prerequisites:** a GitHub account, an Alpaca brokerage account (paper is fine to start), a Perplexity API account, a ClickUp account, and access to Claude Code cloud routines. 
-
-**By: Nate Herk** 
 
 ## **Table of Contents** 
 
