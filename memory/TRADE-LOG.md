@@ -21,3 +21,6 @@ Account anomaly persists at 17:00 UTC: equity/cash/buying power still $0 (acct P
 **Portfolio:** $0 (ANOMALY — baseline $10,000) | **Cash:** $0 (0%) | **Day P&L:** $0 (0.00%) | **Phase P&L:** $0 (0.00%)
 Positions: flat
 Notes: Account PA33JDUCZARX showing $0 equity/cash/buying power all day (anomaly first detected ~11:00 UTC, persists through close). Was $10,000 at 03:25 UTC baseline. No trades executed. No fills, no stops triggered, no activities. Zero rule violations (no positions to violate). No open orders. Operator must restore $10k paper balance before trading can begin. Week trade count: 0/3.
+
+## 2026-06-13 — Operator Note: Alpaca account replaced
+Old paper account PA33JDUCZARX (stuck at $0 since ~11:00 UTC 06-12) retired. New Alpaca paper account **PA3Z13XBQDBS** keys installed in .env by operator at 00:30 UTC 06-13. Verified via API: status ACTIVE, equity $10,000, cash $10,000, buying power $40,000, no positions, no orders. **New trusted equity baseline: $10,000.** Reconciliation gate should measure against this baseline going forward. Week trade count: 0/3.
