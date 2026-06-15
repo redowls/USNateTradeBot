@@ -86,3 +86,33 @@ None. Account has $0 buying power — trading impossible this session. Even if f
 
 ### Decision
 HOLD — forced (zero buying power) and by rule (no verified 2:1 edge pre-FOMC). Patience > activity.
+
+## 2026-06-15 — Pre-market Research
+
+### Account
+- Equity: $10,000.00 (reconciles to trusted baseline PA3Z13XBQDBS, no anomaly)
+- Cash: $10,000.00
+- Buying power: $40,000
+- Daytrade count: 0
+- Positions: flat; no open orders
+
+### Market Context
+- S&P 500 futures: ES +1.3%, Nasdaq NQ +2.1% (leading), Dow +1% — strong risk-on (sources: Yahoo Finance live, heygotrade week-ahead)
+- VIX: 16.80, −13.6% — fear gauge collapsing as geopolitical risk unwinds
+- WTI / Brent: oil −5.2% (~$80.46) on ceasefire / Hormuz reopening; Gold +2.85%, BTC +2.1%
+- Today's catalysts: US–Iran CEASEFIRE deal announced late Sun (Trump "complete"), Strait of Hormuz to reopen — confirmed two sources; Empire State Mfg + May Industrial Production today
+- Earnings before open: light Mon; LEN/KR/FDX later this week
+- Economic calendar: FOMC two-day mtg Tue–Wed, decision Jun 17 2:00pm ET — Warsh's first as Chair; hold at 3.50–3.75% ~99.6% priced; risk skewed HAWKISH, dot-plot wildcard. May Retail Sales also Wed. Juneteenth Fri Jun 19 — market CLOSED (shortened week)
+- Sector momentum: Tech/semis (AI: NVDA/AVGO/LRCX) and Energy are YTD leaders; today oil drop pressures Energy while Tech leads the relief rally
+
+### Trade Ideas
+None meeting the bar. The move is a one-day news gap (ceasefire largely priced into the open at +1.3–2.1%). Buying an extended gap two sessions before a hawkish-risk FOMC forces a poor stop placement and a weak 2:1. Watchlist: semis/AI leaders (NVDA, AVGO) for a clean pullback to support, revisit post-FOMC.
+
+### Risk Factors
+- FOMC Jun 17 — hawkish tilt + dot-plot / Warsh-debut tone = multiple-compression risk for fresh longs
+- Gap-up exhaustion: relief rallies on geopolitical de-escalation often fade
+- Iran headline-reversal risk (prior unfulfilled deal claims)
+- Shortened week (Juneteenth Fri) thins liquidity into/after FOMC
+
+### Decision
+HOLD — no clean 2:1 edge; will not chase a 2% gap into a hawkish-risk FOMC. Patience > activity. Deploy post-FOMC or on a pullback to support.
