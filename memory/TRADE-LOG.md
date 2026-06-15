@@ -24,3 +24,7 @@ Notes: Account PA33JDUCZARX showing $0 equity/cash/buying power all day (anomaly
 
 ## 2026-06-13 — Operator Note: Alpaca account replaced
 Old paper account PA33JDUCZARX (stuck at $0 since ~11:00 UTC 06-12) retired. New Alpaca paper account **PA3Z13XBQDBS** keys installed in .env by operator at 00:30 UTC 06-13. Verified via API: status ACTIVE, equity $10,000, cash $10,000, buying power $40,000, no positions, no orders. **New trusted equity baseline: $10,000.** Reconciliation gate should measure against this baseline going forward. Week trade count: 0/3.
+
+## 2026-06-15 — Market-Open
+No entries — pre-market decision HOLD. No clean 2:1 edge; will not chase a +1.3–2.1% ceasefire relief gap two sessions before a hawkish-risk FOMC (Jun 17). Watchlist: NVDA, AVGO on a pullback to support; revisit post-FOMC.
+Live re-validation 13:30 UTC (market open): acct PA3Z13XBQDBS equity $10,000.00 / cash $10,000.00 / buying power $40,000, flat, no open orders, daytrade_count 0. Equity reconciles to trusted $10k baseline — no anomaly. Zero orders placed. Week trade count: 0/3.
