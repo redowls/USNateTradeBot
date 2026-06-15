@@ -6,6 +6,11 @@ Work in /root/USNateTradeBot. Resolve today's date: `DATE=$(date +%Y-%m-%d)`.
 STEP 1 — Read memory: CLAUDE.md, memory/PROJECT-CONTEXT.md,
 memory/TRADING-STRATEGY.md, tail -80 memory/TRADE-LOG.md,
 tail -80 memory/RESEARCH-LOG.md.
+Find the most recent "Watchlist:" line in RESEARCH-LOG. For EACH item on it,
+decide one of: TRIGGER HIT (price now at/through the trigger AND catalyst
+intact → promote to a STEP-4 trade idea), PENDING (carry it forward), or
+INVALIDATED (thesis broke or catalyst passed without the move → drop it).
+Never let a deferred idea silently vanish or be re-derived from scratch.
 
 STEP 2 — Pull account state:
 - `bash scripts/alpaca.sh account` (equity, cash, buying power, daytrade_count)
@@ -31,9 +36,16 @@ catalyst, entry, stop (7-10% below), target (min 2:1 R:R), position size
 (≤20% of equity). Check against hard rules: positions ≤6 after fills, weekly
 new-trade count ≤3 (count this week's entries in TRADE-LOG), PDT room,
 75-85% deployment ceiling. Decision: TRADE or HOLD. Default HOLD if no edge.
+Watchlist discipline: any idea you defer ("on a pullback", "post-FOMC", "revisit
+post-catalyst") MUST be recorded as an ACTIONABLE line — never vague prose.
+Required fields per item: ticker, trigger price, support/stop level, target
+(≥2:1 R:R from the trigger), catalyst, and what invalidates it. An item that
+can't be specified to this bar doesn't belong on the watchlist.
 
 STEP 5 — Append today's research to memory/RESEARCH-LOG.md using the template
-already in that file (dated section, append-only).
+already in that file (dated section, append-only). The "Watchlist:" line must
+list each item in actionable form (SYM trigger $X, supp/stop $X, tgt $X,
+catalyst, invalidation) so the next session can act on it without re-research.
 
 STEP 6 — Persist: `git add -A && git commit -m "pre-market: $DATE" && git push`.
 
