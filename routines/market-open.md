@@ -17,8 +17,11 @@ STEP 2 — Re-validate with live data:
 
 STEP 3 — Hard-check rules BEFORE every order. Skip any trade that fails and
 log the reason:
-- Equity reconciles with the last EOD snapshot in memory/TRADE-LOG.md: if
-  equity is $0, or deviates >10% beyond what open positions' P&L explains,
+- Equity reconciles with the last TRUSTED EOD snapshot in memory/TRADE-LOG.md
+  (the most recent EOD snapshot NOT flagged ANOMALY/OPERATOR ALERT; honor any
+  later "Operator Note" baseline — never reconcile against a corrupted snapshot
+  such as the 2026-06-12 $0 reset): if equity is $0, or deviates >10% beyond
+  what open positions' P&L explains,
   place NO orders this session, log the anomaly in TRADE-LOG.md, and prefix
   the Telegram message with "OPERATOR ALERT: equity $X vs last snapshot $Y"
 - Total positions after trade ≤ 6
