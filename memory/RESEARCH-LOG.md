@@ -116,3 +116,40 @@ None meeting the bar. The move is a one-day news gap (ceasefire largely priced i
 
 ### Decision
 HOLD — no clean 2:1 edge; will not chase a 2% gap into a hawkish-risk FOMC. Patience > activity. Deploy post-FOMC or on a pullback to support.
+
+## 2026-06-16 — Pre-market Research
+
+### Account
+- Equity: $10,000.00 (acct PA3Z13XBQDBS — reconciles to trusted baseline, no anomaly)
+- Cash: $10,000.00 | Buying power: $40,000
+- Daytrade count: 0/3 | PDT: false
+- Positions: flat | Open orders: none
+
+### Carry-forward watchlist resolution (from 06-15 line: NVDA, AVGO "pullback to support, revisit post-FOMC")
+- NVDA — PENDING. No trigger hit: Nasdaq +3.07% on 06-15 and semis rallied (NVDA +1.73% rebound) — the OPPOSITE of the "pullback to support" the thesis requires. FOMC not yet passed. Carry forward.
+- AVGO — PENDING. Same: rallied with the group, no pullback. Post-earnings momentum still soft (weak Jun-3 guidance, momentum indicator <0 since Jun 5) but rebounding. FOMC gate not cleared. Carry forward.
+
+### Market Context
+- S&P 500 closed 7,554.29 (+1.65%) on 06-15; Nasdaq 26,683.94 (+3.07%, led by AI/semis); Dow 51,671.03 (+0.92%)
+- Futures this morning: cautious/flat ahead of the Fed — Nasdaq fut +0.13%, Russell +0.15%, Dow steady (sources: TheStreet live, Schwab market open)
+- VIX: ~16.2 (calm, down from >23 peak during last week's chip selloff / Gulf tension)
+- Crude: WTI ~$77.49 (−2.45%) on Iran ceasefire / Hormuz reopening; Gold $4,365 (+0.31%); BTC $66.5k (+1.0%)
+- Catalyst (the day): FOMC two-day meeting 06-16/06-17, decision 06-17 2:00pm ET. Hold at 3.50–3.75% ~97.4% priced (CME FedWatch). Warsh's FIRST meeting as Chair; dot-plot wildcard — speculation Warsh may KILL the dot plot. Hawkish tilt; ~70% odds of ≥1 hike by year-end. Verified two sources (FXStreet, Mitrade/Chase).
+- Inflation: CPI +4.2% y/y (3-yr high) driven >60% by energy (Iran/Hormuz); core monthly +0.2% (below 0.3% cons)
+- Sector momentum: AI/semis rebounded hard into 06-15 (NVDA/AMD/INTC/AVGO up); MS top picks NVDA/AVGO/Astera. Energy pressured by the oil drop. Tech leads the relief tape.
+- Held positions: none — no overnight thesis-break risk
+
+### Trade Ideas
+None meeting the bar. Sitting flat the session BEFORE a hawkish-risk FOMC with a Warsh-debut + dot-plot wildcard; semis are extended after a +3% Nasdaq day (opposite of the pullback our watchlist requires). Forcing an entry here means a poor stop and a sub-2:1 R:R into a binary event.
+Watchlist (actionable, post-FOMC gate):
+NVDA trigger reclaim/hold $200 (after a pullback), supp/stop $185 (~7.5%), tgt $230 (≥2:1), catalyst AI/data-center demand + MS top-2026 pick + post-FOMC clarity; INVALIDATION daily close <$190 or hawkish FOMC that breaks the AI-multiple thesis.
+AVGO trigger reclaim/hold $400 (after a pullback), supp/stop $372 (~7%, post-earnings gap area), tgt $456 (≥2:1), catalyst record AI-semi revenue + Erste upgrade to Buy; INVALIDATION daily close <$372 or momentum stays negative.
+
+### Risk Factors
+- FOMC 06-17 binary: hawkish Warsh tone / dot-plot removal = multiple-compression for fresh longs
+- Semis extended after +3.07% Nasdaq day — gap/chase exhaustion risk
+- Energy weak on falling oil; Iran-headline reversal risk both ways
+- Juneteenth Fri 06-19 market CLOSED — thin, shortened week into/after FOMC
+
+### Decision
+HOLD — no verified 2:1 edge; will not open the first position the day before a hawkish-risk FOMC with a dot-plot wildcard, into extended semis. Patience > activity. Re-engage NVDA/AVGO on a clean pullback to the levels above AFTER the FOMC. Week trade count: 0/3.
