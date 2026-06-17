@@ -153,3 +153,40 @@ AVGO trigger reclaim/hold $400 (after a pullback), supp/stop $372 (~7%, post-ear
 
 ### Decision
 HOLD — no verified 2:1 edge; will not open the first position the day before a hawkish-risk FOMC with a dot-plot wildcard, into extended semis. Patience > activity. Re-engage NVDA/AVGO on a clean pullback to the levels above AFTER the FOMC. Week trade count: 0/3.
+
+## 2026-06-17 — Pre-market Research
+
+### Account
+- Equity: $10,000.00 (acct PA3Z13XBQDBS — reconciles to trusted $10k baseline, no anomaly)
+- Cash: $10,000.00 | Buying power: $40,000
+- Daytrade count: 0/3 | PDT: false
+- Positions: flat | Open orders: none
+
+### Carry-forward watchlist resolution (from 06-16 line: NVDA, AVGO — post-FOMC gate)
+- NVDA — PENDING. Trigger (reclaim/hold $200 after a pullback) NOT hit. The FOMC gate is TODAY 2:00pm ET, not yet cleared at pre-market — by rule the post-FOMC condition cannot be satisfied this morning. Carry forward.
+- AVGO — PENDING. Trigger (reclaim/hold $400 after a pullback) NOT hit. Same FOMC gate uncleared. Carry forward.
+
+### Market Context
+- Futures (FOMC-day caution): Nasdaq 100 NQ +0.5%, S&P 500 ES +0.1%, Dow YM ~flat (Dow closed at a record Tue). Sources: Yahoo Finance live, Benzinga.
+- VIX: ~16.8, down ~5% to below 17 — calm, well off last week's >23 chip-selloff/Gulf peak
+- Tue 06-16 close: Dow +0.6% (record), S&P −0.6%, Nasdaq Comp −1.1% — semis/tech pulled back as Hormuz-reopen hopes faded and focus turned to the Fed
+- 10y Treasury 4.44%, 2y 4.05%
+- Catalyst (the day): FOMC decision 06-17 2:00pm ET, Warsh press conf 2:30pm ET. Hold at 3.50–3.75% ~97% priced (CME FedWatch). Hawkish risk: May CPI +4.2% y/y took cuts off the table; June dot plot expected to erase March's lone 2026 cut, ≥3 members may pencil HIKES; Warsh widely expected to WITHHOLD his own dot and signal the tool's days are numbered; easing bias likely removed from the statement. Verified multiple sources (Benzinga, Yahoo, IndexBox, REX Shares, Chase, Morningstar).
+- Sector momentum (past sessions): Tue leadership rotated to financials/utilities/industrials; energy + info-tech LAGGED (oil down on Iran ceasefire/Hormuz; semis cooling after the +3.07% Nasdaq 06-15 spike). AI/semis no longer the clean leaders into the event.
+- Geopolitics: US–Iran interim deal; formal framework reportedly to be signed in Geneva Fri — but Hormuz quick-reopen doubts grew. Headline-reversal risk both ways.
+- Held positions: none — no overnight thesis-break risk
+
+### Trade Ideas
+None meeting the bar. Today is the binary FOMC itself (2:00pm ET, Warsh debut + dot-plot wildcard) — the single worst moment to open a first position. Any entry now means a poor stop and sub-2:1 R:R straddling a binary event. Watchlist stays gated until AFTER the decision/presser.
+Watchlist (actionable, post-FOMC gate — re-engage only after today's 2:00pm ET decision once a clean pullback sets up):
+NVDA trigger reclaim/hold $200 (after a pullback), supp/stop $185 (~7.5%), tgt $230 (≥2:1), catalyst AI/data-center demand + MS top-2026 pick + post-FOMC clarity; INVALIDATION daily close <$190 or a hawkish FOMC that breaks the AI-multiple thesis.
+AVGO trigger reclaim/hold $400 (after a pullback), supp/stop $372 (~7%, post-earnings gap area), tgt $456 (≥2:1), catalyst record AI-semi revenue + Erste upgrade to Buy; INVALIDATION daily close <$372 or momentum stays negative.
+
+### Risk Factors
+- FOMC 06-17 2:00pm ET binary: hawkish Warsh tone / dot-plot removal / easing-bias drop = multiple-compression for fresh longs
+- Semis/tech cooling (Nasdaq −1.1% Tue) — momentum no longer one-way; chase-exhaustion risk
+- Energy weak on falling oil; Iran/Hormuz headline-reversal risk both directions
+- Juneteenth Fri 06-19 market CLOSED — thin, shortened week into/after FOMC
+
+### Decision
+HOLD — no verified 2:1 edge; will not open the first position on the morning OF a binary, hawkish-risk FOMC (Warsh debut + dot-plot wildcard) with semis cooling. Patience > activity. Re-engage NVDA/AVGO only AFTER the 2:00pm ET decision on a clean pullback to the levels above. Week trade count: 0/3.
