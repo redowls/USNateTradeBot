@@ -10,7 +10,16 @@ Find the most recent "Watchlist:" line in RESEARCH-LOG. For EACH item on it,
 decide one of: TRIGGER HIT (price now at/through the trigger AND catalyst
 intact → promote to a STEP-4 trade idea), PENDING (carry it forward), or
 INVALIDATED (thesis broke or catalyst passed without the move → drop it).
-Never let a deferred idea silently vanish or be re-derived from scratch.
+Before promoting a TRIGGER HIT, recompute R:R from the REALISTIC entry fill
+(where a next-open market order actually fills — for a "reclaim/hold on a daily
+CLOSE" trigger that is the close/current price, which by definition has already
+run ABOVE the trigger level, NOT the trigger itself). If the documented
+stop/target no longer yield ≥2:1 from that realistic fill, do NOT promote a
+stale trigger-anchored plan — either re-anchor to a valid entry (a pullback
+limit near the trigger, or a stop still within −7–10% that preserves ≥2:1 to a
+defensible target) or keep it PENDING. Never widen the stop past −10% or invent
+a target to manufacture 2:1. Never let a deferred idea silently vanish or be
+re-derived from scratch.
 
 STEP 2 — Pull account state:
 - `bash scripts/alpaca.sh account` (equity, cash, buying power, daytrade_count)
@@ -42,8 +51,13 @@ new-trade count ≤3 (count this week's entries in TRADE-LOG), PDT room,
 Watchlist discipline: any idea you defer ("on a pullback", "post-FOMC", "revisit
 post-catalyst") MUST be recorded as an ACTIONABLE line — never vague prose.
 Required fields per item: ticker, trigger price, support/stop level, target
-(≥2:1 R:R from the trigger), catalyst, and what invalidates it. An item that
-can't be specified to this bar doesn't belong on the watchlist.
+(≥2:1 R:R), catalyst, and what invalidates it. The ≥2:1 must hold from the
+REALISTIC entry fill, not just the trigger level: for a "reclaim/hold on a
+daily close" trigger the actual entry is the close/next-open price (already
+above the trigger), so either define the entry as a pullback-to-trigger limit
+or set the stop/target so ≥2:1 survives an entry at that higher fill. An item
+that can't be specified to this bar — or whose 2:1 only holds at the abstract
+trigger — doesn't belong on the watchlist.
 
 STEP 5 — Append today's research to memory/RESEARCH-LOG.md using the template
 already in that file (dated section, append-only). The "Watchlist:" line must
