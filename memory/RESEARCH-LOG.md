@@ -190,3 +190,40 @@ AVGO trigger reclaim/hold $400 (after a pullback), supp/stop $372 (~7%, post-ear
 
 ### Decision
 HOLD — no verified 2:1 edge; will not open the first position on the morning OF a binary, hawkish-risk FOMC (Warsh debut + dot-plot wildcard) with semis cooling. Patience > activity. Re-engage NVDA/AVGO only AFTER the 2:00pm ET decision on a clean pullback to the levels above. Week trade count: 0/3.
+
+## 2026-06-18 — Pre-market Research
+
+### Account
+- Equity: $10,000.00 (acct PA3Z13XBQDBS — reconciles to trusted $10k baseline, no anomaly; balance_asof 2026-06-17)
+- Cash: $10,000.00 | Buying power: $40,000
+- Daytrade count: 0/3 | PDT: false
+- Positions: flat | Open orders: none
+- Clock: market closed at routine time (pre-market), next open 06-18 09:30 ET
+
+### Carry-forward watchlist resolution (from 06-17 line: NVDA, AVGO — post-FOMC gate)
+The FOMC gate cleared yesterday (06-17 2:00pm ET) — but it resolved HAWKISH, the named invalidation leg.
+- NVDA — INVALIDATED (catalyst leg). The "post-FOMC clarity" sub-catalyst resolved hawkish (dot plot to 3.8% end-2026, 9/18 members pencil a HIKE, ~61% Oct-hike odds) = the explicit invalidation "a hawkish FOMC that breaks the AI-multiple thesis." Price did NOT reclaim/hold $200 (last ~$199.5 mid at 06-17 close) and tech bellwethers LED the −1.34% Nasdaq selloff. The bullish post-FOMC-momentum setup is dead. Re-listed below with a higher, conservative bar (must absorb the hawkish hit first), not dropped.
+- AVGO — INVALIDATED (catalyst leg). Same hawkish tape; momentum stayed negative and it failed to reclaim $400 (last ~$396.7 mid). Re-listed below with a conservative bar.
+
+### Market Context
+- FOMC 06-17 (Warsh debut): unanimous HOLD at 3.50–3.75% as priced, but the dot plot was the hawkish surprise — median end-2026 rate revised UP to 3.8% (from 3.4% in March), 9 of 18 participants now pencil a 2026 HIKE (March still showed two cuts). Warsh abstained from his own dot; statement dropped forward guidance, ended "will deliver price stability." CME FedWatch now ~60.7% odds of an October HIKE. Verified: CNBC live recap + Investing.com reaction roundup.
+- 06-17 close (risk-off): Dow −0.98% (51,492.55, reversed off a fresh intraday record), S&P 500 −1.21% (7,420.10), Nasdaq Comp −1.34% (26,021.66). Tech bellwethers (MSFT/META/GOOGL/AMZN) led the losses. 2y yield +16bp to 4.216%.
+- 06-18 premarket: index futures modestly firmer/steady after the selloff (Nasdaq fut ~+0.6%, S&P ~+0.2% per Barchart/Investing.com), but mixed-date data — treat as tentative; the dominant fact is the hawkish repricing.
+- VIX: ~16.4 (06-16 close); still below long-term average, VIX futures ~18.3 — no panic, but rate-path uncertainty rose.
+- Sector momentum: leadership rotated to financials/utilities/industrials on the hawkish read; high-multiple AI/semis and big-cap tech the laggards into and after the decision. Higher-for-longer is a multiple-compression headwind for fresh longs in exactly the names on our watchlist.
+- Held positions: none — no overnight thesis-break risk.
+
+### Trade Ideas
+None meeting the bar. The catalyst our watchlist was gated on resolved AGAINST the thesis (hawkish dot plot, Oct-hike odds ~61%), high-multiple tech led the selloff, and neither NVDA nor AVGO reclaimed its trigger. Buying a hawkish-driven, multiple-compression dip in extended AI names with no stabilization yet is a falling-knife trade with sub-2:1 R:R. Stay flat; let the tape stabilize.
+Watchlist (actionable, revised conservative bars — require the hawkish hit to be ABSORBED, not a same-day dip-buy):
+NVDA trigger reclaim AND HOLD $200 on a daily close (proof the hawkish repricing is digested), supp/stop $185 (~7.5%), tgt $230 (≥2:1), catalyst AI/data-center demand + MS top-2026 pick; INVALIDATION daily close <$185 or a second leg down on rate-path fears.
+AVGO trigger reclaim AND HOLD $400 on a daily close, supp/stop $372 (~7%, post-earnings gap), tgt $456 (≥2:1), catalyst record AI-semi revenue + Erste Buy; INVALIDATION daily close <$372 or momentum stays negative.
+
+### Risk Factors
+- Hawkish Fed repricing: ~61% Oct-hike odds + dot plot to 3.8% = ongoing multiple-compression pressure on high-multiple AI/tech (our watchlist names) — primary headwind.
+- No stabilization confirmed after a −1.34% Nasdaq day; risk of a second leg / continuation.
+- Rising short-end yields (2y 4.22%) compete with equities; rotation away from growth.
+- Juneteenth Fri 06-19 market CLOSED — thin, shortened week; 06-18 is the only full session left this week.
+
+### Decision
+HOLD — no verified 2:1 edge. The FOMC gate cleared hawkish (the named NVDA/AVGO invalidation), tech led the selloff, and neither name reclaimed its trigger; will not buy a multiple-compression dip with no stabilization. Patience > activity. Re-engage only on a confirmed daily-close reclaim/hold of the revised levels above. Week trade count: 0/3.
