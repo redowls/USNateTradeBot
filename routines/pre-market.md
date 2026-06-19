@@ -39,13 +39,22 @@ STEP 3 — Market research via WebSearch (NOT Perplexity):
 - S&P 500 / Nasdaq futures, VIX level
 - Today's major catalysts: earnings before open, economic calendar (CPI, Fed,
   jobs), big news
-- Sector momentum: which sectors led/lagged the past 5 sessions
+- Sector momentum: which sectors led/lagged the past 5 sessions. Name the
+  current 1-2 relative-strength LEADER sectors explicitly.
+- OPPORTUNITY-SET SCAN (per memory/TRADING-STRATEGY.md "Watch-list & Sector
+  Emphasis"): do NOT rely solely on carried-forward watchlist names. Each
+  session, screen the RS-leader sector(s) for at least one FRESH candidate with
+  a specific, verified catalyst that can form a clean ≥2:1 fillable setup —
+  widening the universe beyond the hand-curated AI/semis list. This is an input
+  scan, not a mandate to trade: if nothing clears the bar, HOLD is still correct.
 - For held positions: any overnight news that breaks a thesis?
 Verify any tradeable catalyst from at least TWO independent sources.
 
-STEP 4 — Form a plan. 0-3 trade ideas max, each with: ticker, specific
-catalyst, entry, stop (7-10% below), target (min 2:1 R:R), position size
-(≤20% of equity). Check against hard rules: positions ≤6 after fills, weekly
+STEP 4 — Form a plan. Consider BOTH the carried-forward watchlist items AND any
+fresh STEP-3 opportunity-set candidate from an RS-leader sector — the plan is
+not limited to the standing NVDA/AVGO list. 0-3 trade ideas max, each with:
+ticker, specific catalyst, entry, stop (7-10% below), target (min 2:1 R:R),
+position size (≤20% of equity). Check against hard rules: positions ≤6 after fills, weekly
 new-trade count ≤3 (count this week's entries in TRADE-LOG), PDT room,
 75-85% deployment ceiling. Decision: TRADE or HOLD. Default HOLD if no edge.
 Watchlist discipline: any idea you defer ("on a pullback", "post-FOMC", "revisit
