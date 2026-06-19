@@ -227,3 +227,39 @@ AVGO trigger reclaim AND HOLD $400 on a daily close, supp/stop $372 (~7%, post-e
 
 ### Decision
 HOLD — no verified 2:1 edge. The FOMC gate cleared hawkish (the named NVDA/AVGO invalidation), tech led the selloff, and neither name reclaimed its trigger; will not buy a multiple-compression dip with no stabilization. Patience > activity. Re-engage only on a confirmed daily-close reclaim/hold of the revised levels above. Week trade count: 0/3.
+
+## 2026-06-19 — Pre-market Research (Juneteenth — MARKET CLOSED)
+
+### Account
+- Equity: $10,000.00 (acct PA3Z13XBQDBS — reconciles to trusted $10k baseline, no anomaly; balance_asof 2026-06-18)
+- Cash: $10,000.00 | Buying power: $40,000
+- Daytrade count: 0/3 | PDT: false
+- Positions: flat | Open orders: none
+- Clock: is_open false; market CLOSED today (Juneteenth holiday). Next open Mon 2026-06-22 09:30 ET.
+
+### Carry-forward watchlist resolution (from 06-18 line: NVDA, AVGO — daily-CLOSE reclaim/hold gate)
+Both triggers technically HIT on the 06-18 daily close (NVDA $210.69 > $200; AVGO $411.35 > $400 — the hawkish-FOMC repricing absorbed rather than continuing lower). BUT the trigger is a "reclaim/hold on a daily CLOSE," so the realistic next-open market fill is the close price itself — already run WELL above the trigger. Recomputing R:R from that realistic fill kills both stale trigger-anchored plans:
+- NVDA — PENDING (re-anchored). Realistic fill ~$210.69: stop $185 → risk $25.69; tgt $230 → reward $19.31 = 0.75:1. A −10% stop ($189.6) still only nets 0.93:1 to $230. Stale plan FAILS 2:1, will NOT chase at the open. Re-anchored to a pullback-to-trigger LIMIT: buy-limit $200, stop $185 (−7.5%, risk $15), tgt $230 (reward $30) = clean 2:1. INVALIDATION daily close <$185 or a second leg down on rate-path fears.
+- AVGO — PENDING (re-anchored). Realistic fill ~$411.35: stop $372 → risk $39.35; tgt $456 → reward $44.65 = 1.13:1. Stale plan FAILS 2:1. Re-anchored to a pullback-to-trigger LIMIT: buy-limit $400, stop $372 (−7%, risk $28), tgt $456 (reward $56) = 2:1. INVALIDATION daily close <$372 or momentum stays negative.
+
+### Market Context
+- Markets CLOSED Friday 06-19 for Juneteenth (NYSE + Nasdaq + US bond market all shut; CME futures on holiday schedule). No regular trading; next cash session Mon 06-22 09:30 ET. Verified: TheStreet, Yahoo Finance, EBC.
+- Dominant weekend fact: the 06-17 hawkish Fed surprise (dot plot up to 3.8% end-2026, 9/18 pencil a 2026 HIKE, ~61% Oct-hike odds, Warsh withheld his dot) — a multiple-compression headwind for high-multiple AI/tech. Plus the US–Iran peace framework. Both to be digested into Monday's reopen.
+- Semis: NVDA/AVGO recovering off the early-June rout (PHLX chip index −10% on 06-05 after AVGO's $16B AI-rev guide missed the ~$17.2B whisper); 06-18 close holds (NVDA $210.69, AVGO $411.35) suggest stabilization, but both have run above their triggers — entry edge is on a pullback, not a chase. Sources: heygotrade, Yahoo Finance, Finviz.
+- VIX: ~16 area, no panic.
+- Held positions: none — no overnight thesis-break risk.
+
+### Trade Ideas
+None actionable today — market is CLOSED (Juneteenth). No order can fill; next session Mon 06-22. Even at Monday's open, neither watchlist name offers a 2:1 market entry: both ran past their triggers on the close, so a chase fails the realistic-fill R:R test. Edge exists only on a pullback to the trigger levels (see re-anchored limits below). Stay flat.
+Watchlist (actionable, pullback-LIMIT anchored so 2:1 survives the realistic fill):
+NVDA buy-limit $200 (pullback to the reclaimed level — do NOT chase the ~$210.69 close), supp/stop $185 (−7.5%, risk $15), tgt $230 (reward $30, 2:1), catalyst AI/data-center demand + MS top-2026 pick + close-confirmed reclaim of $200; INVALIDATION daily close <$185 or a second leg down on rate-path fears.
+AVGO buy-limit $400 (pullback to the reclaimed level — do NOT chase the ~$411.35 close), supp/stop $372 (−7%, post-earnings gap, risk $28), tgt $456 (reward $56, 2:1), catalyst record AI-semi revenue + Erste Buy + close-confirmed reclaim of $400; INVALIDATION daily close <$372 or momentum stays negative.
+
+### Risk Factors
+- Hawkish Fed repricing (~61% Oct-hike odds, dot plot 3.8%) = ongoing multiple-compression pressure on exactly our watchlist names — primary headwind.
+- Both names have already run above their triggers; chasing the open forfeits 2:1 — discipline requires waiting for the pullback fill.
+- Three-day weekend / Juneteenth gap risk: Monday reopen must digest the full Fed + Iran news flow at once; overnight reversal could re-invalidate the close holds.
+- Rising short-end yields competing with growth equities.
+
+### Decision
+HOLD — market closed today (Juneteenth); nothing can be done until Mon 06-22. No chase: both watchlist names ran above their triggers on the 06-18 close, so a Monday-open market entry fails the 2:1 realistic-fill test. Re-anchored both to pullback buy-limits that preserve 2:1 (NVDA $200, AVGO $400). Patience > activity. Week trade count: 0/3.
