@@ -27,3 +27,16 @@ Beat the S&P 500 over the challenge window. Stocks only — no options, ever.
 - Sector in momentum?
 - Stop level (7-10% below entry)
 - Target (min 2:1 R:R)
+
+## Watch-list & Sector Emphasis (TUNABLE — not a core rule)
+Updated 2026-06-19 weekly review. Two consecutive zero-trade weeks while SPX ~+2%;
+fix is broader opportunity set, NOT a weaker bar. Keep 2:1-or-nothing.
+- AI/semis (NVDA, AVGO): pullback-LIMIT only, never chase. NVDA buy-limit $200 →
+  stop $185 → tgt $230; AVGO buy-limit $400 → stop $372 → tgt $456. These names are
+  multiple-compressed in a higher-for-longer regime — keep but don't over-rely.
+- Post-FOMC rotation leaders: leadership rotated to FINANCIALS / INDUSTRIALS /
+  UTILITIES on the 06-17 hawkish dot plot (3.8% end-2026, ~61% Oct-hike odds).
+  Pre-market should surface a specific 2:1 setup with a verified catalyst in a
+  leading (not lagging-AI) sector so a fillable setup can actually appear.
+- Watch for: a self-tightening gate (reclaim-on-close → pullback-limit) that misses
+  V-recoveries. Broaden the universe scan rather than lowering R:R.
