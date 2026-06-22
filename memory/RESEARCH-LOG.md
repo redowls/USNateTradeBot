@@ -304,3 +304,6 @@ AVGO buy-limit $400 (do NOT chase the ~$411.35 close), supp/stop $372 (−7%, po
 
 ### Decision
 HOLD — no verified 2:1 edge with a fillable entry. Both watchlist names are PENDING above their pullback limits (no chase), futures are risk-off on Iran/Hormuz, and the MU 06-24 earnings binary sits two days ahead of any AI-semi entry. Fresh semi upgrades (AMD/TXN/QCOM) don't clear a clean 2:1 into this tape. Limits stand: NVDA $200 → stop $185 → tgt $230; AVGO $400 → stop $372 → tgt $456. Patience > activity. Week trade count: 0/3.
+
+### 2026-06-22 — Midday Addendum
+AVGO touched its $400 pullback buy-limit intraday (13:00 ET ~$397.31, down ~3.4% from the $411.35 Thu close) on the risk-off geopolitical open (US–Iran talks stalled + Strait-of-Hormuz threat → oil up, equity futures lower). NOT entered: the drop below the limit is negative-momentum (the line's documented INVALIDATION) and any AVGO entry still STRADDLES the MU fiscal-Q3 binary (Tue 06-24 after close) — the documented gate is not cleared. Catalyst (record AI-semi revenue + Strong Buy consensus) remains intact; the limit stays standing — re-evaluate after MU clears. NVDA $209.29, still above its $200 limit (no chase). Decision unchanged: HOLD.
