@@ -32,7 +32,10 @@ already documented as an actionable line on the most recent RESEARCH-LOG
 item: `bash scripts/alpaca.sh quote SYM` (and `bash scripts/alpaca.sh account`
 for live equity/cash before sizing); if price is at/through the documented
 trigger AND the catalyst/gate is satisfied (e.g. a "post-FOMC" gate has cleared),
-treat it as a candidate. Before any order, pass ALL market-open hard-checks
+treat it as a candidate. For a pullback/buy-LIMIT trigger, price reaching the
+limit IS the setup firing — do NOT veto it as "negative momentum"; apply only
+the documented CONFIRMED invalidation (a daily close below the support/stop, or
+a thesis/catalyst break) plus the catalyst gate. Before any order, pass ALL market-open hard-checks
 (routines/market-open.md STEP 3), skipping and logging any that fail:
 - Equity reconciles to the last TRUSTED EOD snapshot (the most recent NOT
   flagged ANOMALY/OPERATOR ALERT; honor any later Operator Note baseline). If

@@ -60,7 +60,14 @@ new-trade count ≤3 (count this week's entries in TRADE-LOG), PDT room,
 Watchlist discipline: any idea you defer ("on a pullback", "post-FOMC", "revisit
 post-catalyst") MUST be recorded as an ACTIONABLE line — never vague prose.
 Required fields per item: ticker, trigger price, support/stop level, target
-(≥2:1 R:R), catalyst, and what invalidates it. The ≥2:1 must hold from the
+(≥2:1 R:R), catalyst, and what invalidates it. For a pullback/buy-LIMIT entry,
+the invalidation MUST be a CONFIRMED breakdown — a daily CLOSE below the
+support/stop level (or a documented thesis/catalyst break) — NOT merely price
+tagging the limit on a down or risk-off day: a buy-limit exists to fill ON a
+pullback, so an invalidation worded as "momentum stays negative" on any dip to
+the limit makes the setup self-contradictory and unfillable. Phrase every
+invalidation so it cannot be tripped by the very pullback the entry is designed
+to capture. The ≥2:1 must hold from the
 REALISTIC entry fill, not just the trigger level: for a "reclaim/hold on a
 daily close" trigger the actual entry is the close/next-open price (already
 above the trigger), so either define the entry as a pullback-to-trigger limit
