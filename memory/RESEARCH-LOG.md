@@ -263,3 +263,44 @@ AVGO buy-limit $400 (pullback to the reclaimed level — do NOT chase the ~$411.
 
 ### Decision
 HOLD — market closed today (Juneteenth); nothing can be done until Mon 06-22. No chase: both watchlist names ran above their triggers on the 06-18 close, so a Monday-open market entry fails the 2:1 realistic-fill test. Re-anchored both to pullback buy-limits that preserve 2:1 (NVDA $200, AVGO $400). Patience > activity. Week trade count: 0/3.
+
+## 2026-06-22 — Pre-market Research
+
+### Account
+- Equity: $10,000.00 (acct PA3Z13XBQDBS — reconciles to trusted $10k baseline per 06-13 Operator Note, no anomaly; balance_asof 2026-06-18)
+- Cash: $10,000.00 | Buying power: $40,000
+- Daytrade count: 0/3 | PDT: false
+- Positions: flat | Open orders: none (no held positions → no missing-trailing-stop flags)
+- Clock: is_open false at routine time (pre-market); next open Mon 2026-06-22 09:30 ET. First session of the week (Juneteenth closed Fri 06-19).
+
+### Carry-forward watchlist resolution (from 06-19 line: NVDA buy-limit $200, AVGO buy-limit $400)
+Both are pullback-LIMIT anchored (so 2:1 survives the realistic fill). Neither limit is hit; both PENDING — carried forward unchanged.
+- NVDA — PENDING. 06-18 close $210.69 HELD (no overnight reversal / second leg — confirms the hawkish repricing is digesting). Premarket ~$207.77, drifting DOWN toward the $200 limit on the risk-off futures but NOT there yet. Catalyst intact (chip-sector strength; NVDA +2.8% Thu 06-18 on the Intel/Apple US-chip news). Buy-limit $200 → stop $185 (−7.5%, risk $15) → tgt $230 (reward $30) = 2:1. INVALIDATION daily close <$185 or a second leg down on rate-path fears. Do NOT chase $207–210.
+- AVGO — PENDING. 06-18 close $411.35 HELD (only −$0.05 after-hours). Above the $400 limit. Ex-dividend $0.65 today (06-22) mechanically trims the open ~$0.65 — does not reach $400. Catalyst intact (record AI-semi revenue + Strong Buy consensus, avg PT $516). Buy-limit $400 → stop $372 (−7%, risk $28) → tgt $456 (reward $56) = 2:1. INVALIDATION daily close <$372 or momentum stays negative. Do NOT chase $411.
+
+### Market Context
+- Futures LOWER Monday: US stock futures slid on geopolitical risk-off — US–Iran talks soured (Tehran reportedly suspended negotiations after Trump threatened fresh strikes + warned against closing the Strait of Hormuz), driving oil higher. Nasdaq-100 futures ~30,647 (range 30,537–30,704). Sources: schwab.com market update, CNBC/CNN premarkets, Investing.com NQ futures.
+- Last week (despite the 06-17 hawkish Fed): Nasdaq Comp +2.43%, S&P +0.93%, Dow +0.71%. Thu 06-18 closed higher — S&P +1%, Nasdaq-100 +1.9%; Intel +10.6% (Trump: INTC to make chips for Apple in the US) lifted the chip complex (NVDA +2.8%, MU +8.5%). Verified: Investing.com/Schwab recap.
+- This week's catalysts: PCE price index (Fed's preferred inflation gauge) later this week; **Micron (MU) fiscal Q3 earnings Tue 06-24 after close** — a sector-wide AI-semi binary two days out (EPS ~$20 / rev ~$34.7B est; UBS $1,625 bull vs Goldman ~$400 bear). Any AI-semi entry now straddles that event.
+- VIX: ~16.78 (06-19 close), just below long-term average — no panic, but rate-path + geopolitical uncertainty present.
+- Sector momentum (past ~5 sessions): leadership split/in-flux — FINANCIALS + ENERGY showing recent relative strength; SEMIS/TECH pulling back on profit-taking ahead of/after the Fed; INDUSTRIALS cooling after an overbought run (1-wk Industrials −5.8%, Energy +5.1%, Real Estate +3.2%). RS leaders: financials/energy near-term; semis remain the structural-growth leader longer-term.
+- Held positions: none — no overnight thesis-break risk.
+
+### Opportunity-set scan (RS-leader sectors, fresh candidates)
+Screened beyond the standing NVDA/AVGO list. Clustered semi upgrades surfaced: AMD (Citi → Buy, PT $575, MI450 ramp), TXN (Citi top pick, AI power chips), QCOM (JPM PT $265, Positive Catalyst Watch). All are AI-semis facing the same two headwinds TODAY: a risk-off geopolitical open (Iran/Hormuz, oil up) AND the MU 06-24 sector binary. None presents a clean, fillable ≥2:1 setup with a defensible stop into that tape — an upgrade-driven pop fades without earnings confirmation. No fresh name clears the bar; not promoted. HOLD remains correct.
+
+### Trade Ideas
+None meeting the bar. Both watchlist names are PENDING above their pullback limits (no chase), and the fresh semi upgrades don't offer a fillable 2:1 into a risk-off open with MU earnings 2 days out. Stay flat; let the limits work.
+Watchlist (actionable, pullback-LIMIT anchored so 2:1 survives the realistic fill):
+NVDA buy-limit $200 (do NOT chase the ~$207.77 premarket / $210.69 close), supp/stop $185 (−7.5%, risk $15), tgt $230 (reward $30, 2:1), catalyst AI/data-center demand + close-confirmed reclaim of $200 + chip-sector strength; INVALIDATION daily close <$185 or a second leg down on rate-path fears.
+AVGO buy-limit $400 (do NOT chase the ~$411.35 close), supp/stop $372 (−7%, post-earnings gap, risk $28), tgt $456 (reward $56, 2:1), catalyst record AI-semi revenue + Strong Buy consensus (avg PT $516); INVALIDATION daily close <$372 or momentum stays negative.
+
+### Risk Factors
+- Geopolitical risk-off: US–Iran talks stalled + Strait of Hormuz threat → higher oil, lower equity futures Monday; headline-reversal risk both directions.
+- Hawkish Fed repricing (06-17 dot plot 3.8% end-2026, ~61% Oct-hike odds) still pressures high-multiple AI/tech — our watchlist names.
+- MU earnings Tue 06-24 (after close) is a sector binary for the entire AI-semi complex — entering NVDA/AVGO/AMD now straddles it.
+- PCE inflation print later this week could re-rate the rate path.
+- Both watchlist names sit above their limits; chasing the open forfeits 2:1 — wait for the pullback fill.
+
+### Decision
+HOLD — no verified 2:1 edge with a fillable entry. Both watchlist names are PENDING above their pullback limits (no chase), futures are risk-off on Iran/Hormuz, and the MU 06-24 earnings binary sits two days ahead of any AI-semi entry. Fresh semi upgrades (AMD/TXN/QCOM) don't clear a clean 2:1 into this tape. Limits stand: NVDA $200 → stop $185 → tgt $230; AVGO $400 → stop $372 → tgt $456. Patience > activity. Week trade count: 0/3.
